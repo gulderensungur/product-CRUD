@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productname": "Apple",
+      "category": "fruits",
+      "freshness": "New Brand",
+      "price": 123,
+      "comment": "It is a fresh apple.",
+      "date": "2022-07-14T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productname": "Laptop",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 2500,
+      "comment": "It works well",
+      "date": "2022-07-08T21:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
