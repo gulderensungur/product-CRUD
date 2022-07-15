@@ -1,15 +1,6 @@
 {
   "productList": [
     {
-      "productname": "Apple",
-      "category": "fruits",
-      "freshness": "New Brand",
-      "price": 123,
-      "comment": "It is a fresh apple.",
-      "date": "2022-07-14T21:00:00.000Z",
-      "id": 1
-    },
-    {
       "productname": "Laptop",
       "category": "Electronics",
       "freshness": "Second Hand",
@@ -17,6 +8,15 @@
       "comment": "It works well",
       "date": "2022-07-08T21:00:00.000Z",
       "id": 2
+    },
+    {
+      "productname": "Carrot",
+      "category": "Vegetables",
+      "freshness": "New Brand",
+      "price": 1.5,
+      "comment": "Fresh carrots",
+      "date": "2022-07-21T21:00:00.000Z",
+      "id": 3
     }
   ],
   "comments": [
